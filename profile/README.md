@@ -1,4 +1,4 @@
-# KSEB 4기 프로젝트 1팀 입니다! :smile:
+# KSEB 4기 프로젝트 1팀 :smile:
 
 ## FE, UI/UX  - 박우빈, 최정욱
 ## BE, DevOps - 조윤하, 최민상
