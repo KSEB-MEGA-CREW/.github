@@ -7,7 +7,7 @@
 
 
 # 🤚수담(手談): AI 기반 수어 양방향 번역 및 학습 플랫폼  
-🌐 ["수담 바로가기"](http://mega-crew-react-deploy.s3-website.ap-northeast-2.amazonaws.com)
+🌐 ["수담(手談) 바로가기"](http://mega-crew-react-deploy.s3-website.ap-northeast-2.amazonaws.com)
 
 "수담(手談)"은 음성(텍스트) ↔ 3D 아바타 수어 영상 간의 실시간 양방향 번역과  
 수어 퀴즈 기반 학습 기능을 제공하는 차세대 AI 수어 서비스입니다.  
