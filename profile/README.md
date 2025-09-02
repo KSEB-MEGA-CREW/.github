@@ -59,3 +59,7 @@
 
 **누구나 손쉽게, 그리고 즐겁게 수어를 배울 수 있도록!  
 수담(手談)이 새로운 커뮤니케이션의 다리를 놓습니다.**
+
+---
+🏆 KSEB 4기 K-SoftVaTION Showcase 프로젝트 경진대회 우수상 수상작
+<img width="1179" height="2096" alt="image" src="https://github.com/user-attachments/assets/7fc9fe5c-43dc-4837-9679-a193f0d922d9" />
