@@ -3,8 +3,13 @@
 ## FE, UI/UX - 박우빈, 최정욱
 ## BE, DevOps - 조윤하, 최민상
 ## AI - 김동혁, 김찬혁, 이시은
----
 
+---
+### 🏆 **KSEB 4기 K-SoftVaTION Showcase 프로젝트 경진대회 우수상 수상작**
+![KakaoTalk_20250902_091147215](https://github.com/user-attachments/assets/f9124530-b21d-4a86-ba16-77003e11aa4b)
+
+
+---
 
 # 🤚수담(手談): AI 기반 수어 양방향 번역 및 학습 플랫폼  
 ### 🌐 ["수담(手談) 바로가기"](https://d30bfqclzktlhg.cloudfront.net/auth)
@@ -13,11 +18,6 @@
 "수담(手談)"은 텍스트(음성) ↔ 3D 아바타 수어 영상 간의 실시간 양방향 번역과  
 수어 퀴즈 기반 학습 기능을 제공하는 차세대 AI 수어 서비스입니다.  
 커뮤니케이션의 장벽을 허물고, 모두를 위한 손쉬운 수어 학습과 소통을 경험하세요.
-
----
-### 🏆 **KSEB 4기 K-SoftVaTION Showcase 프로젝트 경진대회 우수상 수상작**
-![KakaoTalk_20250902_091147215](https://github.com/user-attachments/assets/f9124530-b21d-4a86-ba16-77003e11aa4b)
-
 
 ---
 
