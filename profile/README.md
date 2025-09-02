@@ -15,6 +15,11 @@
 커뮤니케이션의 장벽을 허물고, 모두를 위한 손쉬운 수어 학습과 소통을 경험하세요.
 
 ---
+### 🏆 **KSEB 4기 K-SoftVaTION Showcase 프로젝트 경진대회 우수상 수상작**
+![KakaoTalk_20250902_091147215](https://github.com/user-attachments/assets/f9124530-b21d-4a86-ba16-77003e11aa4b)
+
+
+---
 
 ## 🚀 주요 기능
 
@@ -59,7 +64,3 @@
 
 **누구나 손쉽게, 그리고 즐겁게 수어를 배울 수 있도록!  
 수담(手談)이 새로운 커뮤니케이션의 다리를 놓습니다.**
-
----
-🏆 KSEB 4기 K-SoftVaTION Showcase 프로젝트 경진대회 우수상 수상작
-![KakaoTalk_20250902_091147215](https://github.com/user-attachments/assets/f9124530-b21d-4a86-ba16-77003e11aa4b)
