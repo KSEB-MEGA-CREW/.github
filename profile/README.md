@@ -62,4 +62,4 @@
 
 ---
 🏆 KSEB 4기 K-SoftVaTION Showcase 프로젝트 경진대회 우수상 수상작
-<img width="1179" height="2096" alt="image" src="https://github.com/user-attachments/assets/7fc9fe5c-43dc-4837-9679-a193f0d922d9" />
+![KakaoTalk_20250902_091147215](https://github.com/user-attachments/assets/f9124530-b21d-4a86-ba16-77003e11aa4b)
