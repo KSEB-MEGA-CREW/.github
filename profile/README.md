@@ -6,6 +6,7 @@
 
 ---
 ### 🏆 **KSEB 4기 K-SoftVation Showcase 프로젝트 경진대회 우수상 수상작**
+신세계 I&C 산학협력 프로젝트 출품작
 ![KakaoTalk_20250902_091147215](https://github.com/user-attachments/assets/0dafb108-3a88-46fc-8c63-b98f0e402db6)
 
 
